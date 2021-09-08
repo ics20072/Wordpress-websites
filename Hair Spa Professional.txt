@@ -1,1 +1,6 @@
 https://hairspaprofessional.gr
+
+Contributors:
+---------------------------------------------------------------------
+Lougaris Dionisis          https://github.com/DionisisLougaris
+Machairas Panagiotis       https://github.com/ics20044
