@@ -1,0 +1,16 @@
+--- HairSpa Professional ---
+
+Website URL: https://hairspaprofessional.gr
+
+-> Website not live? Check out this demo video:
+https://vimeo.com/618159018/21028c75f9
+
+
+Plug-ins used:
+---------------------------
+-Elementor
+-Modula
+-Smart Slider 3
+-Tidio Chat
+-Under Construction
+-WPForms Lite
